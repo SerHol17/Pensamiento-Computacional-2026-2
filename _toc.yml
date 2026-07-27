@@ -1,0 +1,33 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Unidad1.md
+#- file: Unidad2 
+#  sections:
+#  - file: Unidad2/Unidad2_1.md
+#  - file: Unidad2/Colab.md
+#  - file: Unidad2/LogicaySintaxisPython2-2.ipynb
+#  - file: Unidad2/213_Estructura_Datos.md
+#  - file: Unidad2/EstrucuturaDatos.ipynb
+#  - file: Unidad2/22_complejidad.md
+#  - file: Unidad2/23optimizacion.md
+#  - file: Unidad2/Taller_Corte1.md
+#  - file: Unidad2/Certificado_electoral.md
+#  - file: Unidad2/Certificados_cursos.md
+#- file: Unidad3
+#  sections:
+#  - file: Unidad3/unidad31.md
+#  - file: Unidad3/Pandas.ipynb
+#  - file: Unidad3/31Rgrecion.md
+#  - file: Unidad3/c.ipynb
+#  - file: Unidad3/taller2.md
+#- file: Unidad4
+#  sections:
+#  - file: Unidad4/41prompt.md
+#  - file: Unidad4/42n8n.md
+#  - file: Unidad4/Certificado2.md
+#  - file: Unidad4/evaluacióndocente.md
+#  - file: Unidad4/Proyecto.md
