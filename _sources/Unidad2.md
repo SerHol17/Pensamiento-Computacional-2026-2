@@ -1,7 +1,13 @@
 # Unidad 2: Diseño y Evaluación de Algoritmos
 
+
+
 Esta unidad se centra en la transición de la idea lógica a la construcción técnica de soluciones. Aprenderemos a estructurar datos, medir la eficiencia de nuestros procesos y aplicar técnicas de optimización para garantizar que los algoritmos sean escalables en entornos empresariales.
 
+---
+## Preconceptos 
+
+[Preconceptos Ingrese acá](https://drive.google.com/drive/folders/1yRHgC1_pmFDC9ysedZYDMXCh7UBN4S0s?usp=sharing)
 ---
 
 ## 2.1 Conceptos de Algoritmos y Estructuras de Datos
