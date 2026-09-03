@@ -11,10 +11,10 @@ A continuación suba su certificado de los cursos opcionales
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://forms.gle/MPdaVoqheXbWDhY57
+:link: https://docs.google.com/forms/d/e/1FAIpQLSf0RjkUi2w_e7CTzZ4PrE6YmoUdSBxI_nW0SZzDTMFlCTSwbA/viewform?usp=publish-editor
 **💬 certificado**
 ^^^
-```{image} https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Google_Forms_logo_%282014-2020%29.svg/1489px-Google_Forms_logo_%282014-2020%29.svg.png
+```{image}https://www.cleanpng.com/free/google-forms-logo.html
 :height: 100
 ```
 
